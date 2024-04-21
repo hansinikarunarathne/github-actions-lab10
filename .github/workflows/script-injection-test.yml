@@ -16,3 +16,4 @@ jobs:
           else
             echo "Issue is not about a bug"
           fi
+          
